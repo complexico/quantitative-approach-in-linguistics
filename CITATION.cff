@@ -1,0 +1,47 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Materials for the “Workshop on Quantitative Approach in
+  Linguistics”
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Karlina
+    family-names: Denistia
+    email: karlinadenistia@staff.uns.ac.id
+    affiliation: Universitas Sebelas Maret
+    orcid: 'https://orcid.org/0000-0002-1060-3548'
+repository-code: >-
+  https://github.com/complexico/quantitative-approach-in-linguistics
+keywords:
+  - Indonesian linguistics
+  - Masyarakat Linguistik Indonesia
+  - Kongres Internasional Masyarakat Linguistik Indonesia
+  - Quantitative Linguistics
+  - R programming
+  - Linguistik Kuantitatif
+  - Quantitative Methods in Linguistics
+  - Metode Kuantitatif dalam Linguistik
+  - Linguistik Korpus Kuantitatif
+  - Bahasa Pemrograman R
+  - Data Science
+  - Sains Data
+  - Quantitative Corpus Linguistics
+  - Universitas Sebelas Maret
+  - Universitas Udayana
+  - Udayana University
+  - Statistical Testings
+  - Data Visualisation
+  - Visualisasi Data
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2025-07-14'
