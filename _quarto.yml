@@ -1,0 +1,4 @@
+project:
+  type: manuscript
+manuscript:
+  article: quant-ling-with-r.qmd
