@@ -1,0 +1,8 @@
+---
+title: "Workshop on \"Quantitative Approach to Linguistics\""
+author: "Gede Rajeg & Karlina Denistia"
+format: html
+editor: visual
+---
+
+This is a homepage
