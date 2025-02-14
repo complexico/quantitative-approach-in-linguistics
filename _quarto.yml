@@ -1,4 +1,10 @@
 project:
-  type: manuscript
-manuscript:
-  article: quant-ling-with-r.qmd
+  type: website
+website:
+  title: "Quantitative Approach to Linguistics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: quant-ling-with-r.qmd
+        text: "Descriptive Statistics with R"
