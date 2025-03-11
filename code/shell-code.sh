@@ -12,3 +12,10 @@ touch _quarto.yml
 
 # create html symlink
 ln -s quant-ling-with-r.html index.html
+
+# download "menawari.txt" and "menawarkan.txt" data from Rajeg (2023)
+curl https://raw.githubusercontent.com/gederajeg/profiled-participant-roles/refs/heads/main/menawari.txt --output data/menawari.txt
+curl https://raw.githubusercontent.com/gederajeg/profiled-participant-roles/refs/heads/main/menawarkan.txt --output data/menawarkan.txt
+
+# download linguistics vanguard data (Rajeg et al. 2022)
+gh repo clone gederajeg/lingvan-voice
