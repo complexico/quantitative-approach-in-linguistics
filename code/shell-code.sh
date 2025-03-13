@@ -25,8 +25,10 @@ mkdir /g/My\ Drive/kimli-2025-quantitative-workshop/data
 ## code
 cp code/work-with-data-1.R /g/My\ Drive/kimli-2025-quantitative-workshop/code-work-with-data-1.R
 ## data
-cp data/03-1_uh\(m\).txt data/vanguard-majukan.txt /g/My\ Drive/kimli-2025-quantitative-workshop/data
+cp data/03-1_uh\(m\).txt data/vanguard-majukan.txt data/rajeg_2022_beri.txt /g/My\ Drive/kimli-2025-quantitative-workshop/data
 ## readme
 #touch /g/My\ Drive/kimli-2025-quantitative-workshop/README.md
-
 nano /g/My\ Drive/kimli-2025-quantitative-workshop/README.md
+
+# prepare dative data (Bresnan et al 2007) from Baayen's (2008) languageR package
+Rscript -e "readr::write_tsv(languageR::dative, 'data/dative.txt')"

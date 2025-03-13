@@ -1,4 +1,4 @@
-# code to prepare the BERI paper (Rajeg 2022) (http://dx.doi.org/10.6084/m9.figshare.20375955) for practising the chi-square test
+# code to prepare the BERI paper (Rajeg 2023) (http://dx.doi.org/10.6084/m9.figshare.20375955) for practising the chi-square test
 
 library(tidyverse)
 
