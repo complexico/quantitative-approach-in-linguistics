@@ -19,3 +19,14 @@ curl https://raw.githubusercontent.com/gederajeg/profiled-participant-roles/refs
 
 # download linguistics vanguard data (Rajeg et al. 2022)
 gh repo clone gederajeg/lingvan-voice
+
+# copy files to Drive for sharing with Karlina
+mkdir /g/My\ Drive/kimli-2025-quantitative-workshop/data
+## code
+cp code/work-with-data-1.R /g/My\ Drive/kimli-2025-quantitative-workshop/code-work-with-data-1.R
+## data
+cp data/03-1_uh\(m\).txt data/vanguard-majukan.txt /g/My\ Drive/kimli-2025-quantitative-workshop/data
+## readme
+#touch /g/My\ Drive/kimli-2025-quantitative-workshop/README.md
+
+nano /g/My\ Drive/kimli-2025-quantitative-workshop/README.md
