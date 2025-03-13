@@ -1,6 +1,9 @@
 Materials for the “Workshop on Quantitative Approach in Linguistics”
 ================
-Gede Primahadi Wijaya Rajeg & Karlina Denistia
+Gede Primahadi Wijaya Rajeg
+<a itemprop="sameAs" content="https://orcid.org/0000-0002-2047-8621" href="https://orcid.org/0000-0002-2047-8621" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
+& Karlina Denistia
+<a itemprop="sameAs" content="https://orcid.org/0000-0002-1060-3548" href="https://orcid.org/0000-0002-1060-3548" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
