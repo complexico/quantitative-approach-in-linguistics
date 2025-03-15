@@ -1,8 +1,22 @@
 ---
-title: "Workshop on \"Quantitative Approach to Linguistics\""
-author: "Gede Rajeg & Karlina Denistia"
+title: "Workshop on \"Quantitative Apparoach in Linguistics\""
+author:
+  - name: Gede Primahadi Wijaya Rajeg
+    orcid: 0000-0002-2047-8621
+    affiliation:
+      - "Universitas Udayana"
+  - name: Karlina Denistia
+    orcid: 0000-0002-1060-3548
+    affiliation:
+      - "Universitas Sebelas Maret"
 format: html
 editor: visual
 ---
 
-This is a homepage
+# Overview
+
+Welcome to the homepage for the workshop on *Quantitative Approach in Linguistics*. This is a pre-conference workshop for the *Kongres Internasional Masyarakat Linguistik Indonesia* (International Congress of the Linguistic Society of Indonesia) in 2025 (KIMLI 2025), commemorating the semi-centennial/fiftieth anniversary of the Linguistic Society of Indonesia established in 1975.
+
+The workshop introduces participant to the basic statistical methods and modern statistical tool for data science, namely R programming language, illustrated with data from linguistic studies. The broader topics covered in the workshop includes (i) types of variables and how they are represented as data type in R, (ii) descriptive statistics (and their corresponding visualisation methods) for qualitative and quantitative variables, and (iii) inferential statistics for qualitative and quantitative variables.
+
+By the end of the workshop, the participants will be expected (i) to comprehend the concept of, and be able to identify, variables in the design of their study and analysis, (ii) to practice basic tidy data storage and management in spreadsheet, and (iii) to conduct selected elementary descriptive and inferential statistics and data visualisations using R.
