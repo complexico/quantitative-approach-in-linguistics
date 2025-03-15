@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+// colours
+$body-bg: #F2F0F0 !default;
+$body-color: #002147 !default;
+$link-color: #AA1A2D !default;
+$selection-bg: #F7EF66 !default;
+$selection-color: #1D42A6 !default;
+
+// fonts 
+$font-family-sans-serif: "Noto Serif" !default;
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+  font-size: 12px !important;
+  text-align: left !important;
+  margin-left: 60px !important;
+}
